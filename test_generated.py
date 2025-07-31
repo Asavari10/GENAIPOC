@@ -3,7 +3,7 @@
 # import os
 
 # # Configure Gemini API
-# genai.configure(api_key="AIzaSyAVfg0QElVVa0TqxXZqW6rbwMu5UTcRryY")
+# genai.configure(api_key="")
 # model = genai.GenerativeModel("gemini-1.5-flash")
 
 # # Hardcoded test description
