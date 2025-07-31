@@ -51,7 +51,7 @@ import datetime
 import os
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAVfg0QElVVa0TqxXZqW6rbwMu5UTcRryY")
+genai.configure(api_key="")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Path to the source code file you want to generate tests for
